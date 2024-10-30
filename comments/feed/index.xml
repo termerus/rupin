@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comentários sobre rupin	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://termerus.github.io/rupin/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://termerus.github.io/rupin/</link>
 	<description></description>
 	<lastBuildDate>Thu, 17 Oct 2024 21:51:56 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Comentário sobre Hello world! por A WordPress Commenter		</title>
-		<link>/hello-world/#comment-1</link>
+		<link>https://termerus.github.io/rupin/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Thu, 17 Oct 2024 21:51:56 +0000</pubDate>
-		<guid isPermaLink="false">/?p=1#comment-1</guid>
+		<guid isPermaLink="false">https://termerus.github.io/rupin/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.

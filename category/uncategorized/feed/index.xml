@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Uncategorized &#8211; rupin</title>
-	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://termerus.github.io/rupin/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>https://termerus.github.io/rupin/</link>
 	<description></description>
 	<lastBuildDate>Thu, 17 Oct 2024 21:51:56 +0000</lastBuildDate>
 	<language>pt-BR</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=6.6.2</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>/hello-world/</link>
-					<comments>/hello-world/#comments</comments>
+		<link>https://termerus.github.io/rupin/hello-world/</link>
+					<comments>https://termerus.github.io/rupin/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 17 Oct 2024 21:51:56 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
+		<guid isPermaLink="false">https://termerus.github.io/rupin/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://termerus.github.io/rupin/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
